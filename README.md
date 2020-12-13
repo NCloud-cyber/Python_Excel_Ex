@@ -1,4 +1,4 @@
-# DiteFixTool
+# DateFixTool
 ## About
 This is a project I put together to easily edit messy dates in Excel sheets. 
 
