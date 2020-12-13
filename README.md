@@ -1,3 +1,5 @@
+# DiteFixTool
+## About
 This is a project I put together to easily edit messy dates in Excel sheets. 
 
 Using `dateutil.parser', the dateFix() function is able to recognize and pull dates from strings then convert them to datetime objects. 
